@@ -1,0 +1,4 @@
+pushs "s"
+pushs "5"
+cat
+quit
